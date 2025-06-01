@@ -1,0 +1,94 @@
+/*
+Theme Name: wp_manual
+Theme URI:
+Author: Adam Ruml
+Author URI:
+Description:
+Version: 1.0
+License: GNU General Public License
+License URI: license.txt
+*/
+
+
+
+.nadpis{
+    background-color: #18184E;
+    padding: 20px;
+    padding-bottom: 10px;
+    width: 300px;
+    border-radius: 0px 0px 20px 20px;
+}
+.nadpis_text{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Kalnia;
+}
+
+.mezera{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.obrazek{
+    width: 600px;
+}
+.cara{
+    opacity: 100%;
+    border-radius: 20px;
+    border: 2.5px solid black;
+    width: 350px;
+}
+.text{
+    font-size: large;
+}
+.text2{
+    text-align: end;
+
+}
+
+.paticka{
+    background-color: #18184E;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;   
+    color: white;
+    padding-top: 10px; 
+
+}
+.cara2{
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 100%;
+    border-radius: 20px;
+    border: 2.8px solid white;
+    width: 800px;
+}
+.cara3{
+    opacity: 100%;
+    border-radius: 20px;
+    border: 2.5px solid black;
+}
+
+
+li::marker{
+    font-size: 2rem;
+}
+.karta{
+    background-color: #ADEFD1;
+    border-radius: 25px;
+    border: 3px solid #18184E;
+    box-shadow: 0px 5px 15px #18184E;
+}
+
+.tlacitko{
+    background-color: #18184E;
+    width: 138px;
+    border-radius: 12px;
+    border: 1px solid #18184E;
+   
+}
+.mezera2{
+    margin-top: 100px;
+
+}
